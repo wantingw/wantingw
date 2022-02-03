@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Wanting Wu</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
+<br />
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
