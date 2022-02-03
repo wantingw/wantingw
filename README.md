@@ -1,8 +1,5 @@
-<div align="center" width="50">
-<img src="https://github.com/wantingw/wantingw/blob/main/image/pink.gif?raw=true/"><br>
-</div>
-
 ### Hi there 👋
+
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -21,6 +18,13 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 </p>
+
+<div align="center" width="100">
+<img src="https://github.com/wantingw/wantingw/blob/main/image/pink.gif?raw=true/"><br>
+</div>
+</br>
+
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=wantingw&show_icons=true&theme=cobalt" width = 400>
