@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Wanting Wu</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="1" /></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Wanting Wu</a> 
 
 <br />
 
