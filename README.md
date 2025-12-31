@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Wan</a> 
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">WanTing</a> 
 
 <br />
 
